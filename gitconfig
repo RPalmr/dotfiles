@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = reecelpalmer@gmail.com
+	name = reece palmer
